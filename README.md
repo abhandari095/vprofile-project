@@ -11,6 +11,7 @@
 - Maven
 - JSP
 - MySQL
+- Testing
 ### Database
 Here,we used Mysql DB 
 MSQL DB Installation Steps for Linux ubuntu 14.04:
